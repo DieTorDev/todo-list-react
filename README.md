@@ -6,7 +6,7 @@
 
 ## Ejemplo en vivo
 
-- [Vista en vivo](https://dietordev.github.io/todo-list/)
+- [Vista en vivo](https://todolist-yioe.onrender.com)
 
 ## Descripción 📑
 
