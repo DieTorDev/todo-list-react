@@ -1,4 +1,4 @@
-# ToDo list
+# Fun With Flags
 <p align="center">
   <img src="https://github.com/DieTorDev/todo-list/blob/main/screenshots/day-mode.png" />
   <img src="https://github.com/DieTorDev/todo-list/blob/main/screenshots/night-mode.png" />
@@ -6,11 +6,11 @@
 
 ## Ejemplo en vivo
 
-- [Vista en vivo](https://todolist-yioe.onrender.com)
+- [Vista en vivo](https://fun-with-flags-ntj5.onrender.com)
 
 ## Descripción 📑
 
-Es un prototipo de ToDo list que busca ser eficiente y efectiva.
+Pequeño proyecto responsive con consumo de APIs en React.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
